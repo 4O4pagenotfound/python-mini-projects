@@ -53,4 +53,3 @@ if __name__ == "__main__":
     ascii_art = img_to_ascii(image)
     print_out_ascii(ascii_art)
 
-    input("")
