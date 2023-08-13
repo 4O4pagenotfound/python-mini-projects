@@ -56,5 +56,5 @@ else:
 	print("\n\t\tOOPS! IT'S A TIE!")
 
 
-
+input("")
 #END;
